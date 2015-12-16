@@ -1,2 +1,28 @@
 # TipCalc---TipTap1.1
+
 First repository on GitHub. Includes TipTap1.1
+
+Pre-work - TipTap1.1
+
+TipTap1.1 is a tip calculator applicaiton for iOS.
+
+Submitted by: Saul Soto
+
+Time Spent: 2 hours spend in total
+
+## User Stories
+The following required functionality is complete:
+[x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+[**] Settings page to change the default tip percentage ** Explained in Notes 
+
+No optional features were implemented.
+
+No additional features were implemented.
+
+## Video Walkthrough - Attached seperately in repository
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+##Notes
+
+I was able to create a settings page that could return to the mainviewcontroller, but I was unable to change the default tip percentage from the settings page; the button on the settings page mirrors the button on the mainviewcontroller, but it is useless, for now.
+
