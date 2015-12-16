@@ -2,16 +2,16 @@
 
 First repository on GitHub. Includes TipTap1.1
 
-Pre-work - TipTap1.1
+#Pre-work - *TipTap1.1*
 
 TipTap1.1 is a tip calculator applicaiton for iOS.
 
-Submitted by: Saul Soto
+Submitted by: **Saul Soto**
 
-Time Spent: 2 hours spend in total
+Time Spent: **2** hours spend in total
 
 ## User Stories
-The following required functionality is complete:
+The following **required** functionality is complete:
 [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 [**] Settings page to change the default tip percentage ** Explained in Notes 
 
