@@ -20,6 +20,7 @@ No **optional** features were implemented.
 No **additional** features were implemented.
 
 ## Video Walkthrough - Attached seperately in repository
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ##Notes
