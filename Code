@@ -55,6 +55,10 @@ class ViewController: UIViewController {
   override func viewWillAppear(animated: Bool) {
       super.viewWillAppear(animated)
       print("view will appear")
+      
+      let defaults = NSUserDefaults.standardUserDefaults()
+      let tippercent = defaults.doubleForKey("default_tip_percentage")
+      
   }
   
   override func viewDidAppear(animated: Bool) {
