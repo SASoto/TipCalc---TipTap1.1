@@ -19,7 +19,7 @@ No **optional** features were implemented.
 
 No **additional** features were implemented.
 
-## Video Walkthrough - Attached seperately in repository
+## Video Walkthrough - Attached separately in repository
 ![tipcalcgif](https://cloud.githubusercontent.com/assets/16313246/11828660/cefaa48e-a364-11e5-9655-089917b46ef5.gif)
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
